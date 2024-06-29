@@ -1,0 +1,201 @@
+.both-nav {
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+  margin: 0;
+  z-index: 100;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#lake-carousel {
+  width: 50%;
+  height: auto;
+}
+
+.search {
+  padding-left: 50px;
+  color: blue;
+  align-items: center;
+}
+
+.search-nav select {
+  margin-left: -400px;
+  padding-right: 10px;
+  outline: none;
+  color: black;
+}
+
+.sttw {
+  width: 250px;
+  outline: none;
+}
+
+.main-shit {
+  display: flex;
+}
+
+.main-shit img {
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+}
+
+.laketek {
+  font-size: 35px;
+}
+
+.extras {
+  display: flex;
+  justify-content: space-between;
+  margin-left: -380px;
+  align-items: center;
+}
+
+.extra-items {
+  padding-right: 40px;
+}
+
+.in-nav a {
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Verdana, sans-serif;
+}
+
+.in-nav div {
+  padding-bottom: 15px;
+}
+
+.in-nav {
+  padding: 20px;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #264f4f;
+  color: white;
+}
+
+.extra-content h2 {
+  font-size: 15px;
+  padding-bottom: 5px;
+  text-decoration: underline;
+}
+
+.extras-appliances,
+.extras-computing,
+.extras-electronics,
+.extras-gaming,
+.extras-phones,
+.extras-wearables {
+  display: flex;
+  font-size: 12px;
+  padding-top: 20px;
+}
+
+.extras-appliances div,
+.extras-computing div,
+.extras-electronics div,
+.extras-gaming div,
+.extras-phones div,
+.extras-wearables div {
+  padding-left: 70px;
+}
+
+.options {
+  padding: 20px 10% 0 0;
+}
+
+.options li {
+  padding: 8px;
+}
+
+article {
+  background-color: #2b3d3d;
+  color: white;
+}
+
+footer {
+  background-color: #264f4f;
+  margin: 0;
+}
+
+.new-customer {
+  background-color: black;
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+}
+
+.both,
+.other-both {
+  margin: 40px;
+}
+
+.other-both {
+  margin-left: 20%;
+}
+
+.both a {
+  display: flex;
+  flex-direction: row;
+}
+
+.both p {
+  font-size: 35px;
+}
+
+.pic {
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+}
+
+.button {
+  margin-left: 30px;
+}
+
+.footer-list {
+  display: flex;
+  padding: 20px;
+}
+
+.bout-laketek {
+  width: 40%;
+}
+
+.bout-laketek p {
+  font-size: 16px;
+}
+
+.f-l-1 h2,
+.f-l-2 h2,
+.f-l-3 h2 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.f-l-1,
+.f-l-2,
+.f-l-3 {
+  padding-left: 30px;
+}
+
+.f-l-1 div,
+.f-l-2 div,
+.f-l-3 div {
+  padding-bottom: 15px;
+}
+
+.copyright {
+  background-color: black;
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
