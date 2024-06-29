@@ -1,3 +1,8 @@
- Don't let outdated technology hold you back. Our unbeatable prices and jaw-dropping discounts open up a world of possibilities to you.
+# React + Vite
 
-Delaying could mean missing out on the chance to improve your daily life. Explore LakeTek Trove now and enjoy a world full of the best deals!
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
